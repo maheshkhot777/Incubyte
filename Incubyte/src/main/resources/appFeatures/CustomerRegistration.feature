@@ -1,6 +1,6 @@
 #Author: MaheshKhot777@gmail.com
 
-	@Test
+@Test
 Feature: Customer Sign Up & Sign IN Functionality
   This feature conatains test scenarios around Sign Up and Sign In Functionality
   of the Luma Application
